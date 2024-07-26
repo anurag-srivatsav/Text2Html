@@ -15,13 +15,7 @@ Before running the application, ensure you have the following:
 - **Python 3.x**: [Download Python](https://www.python.org/downloads/)
 - **Django**: Web framework used for building the application.
 
-## Installation
 
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/text-to-html-django.git
-   cd text-to-html-django
 
 
 ## Setup and Installation
@@ -36,6 +30,7 @@ Before running the application, ensure you have the following:
 1. **Clone the Repository**
     ```bash
     git clone https://github.com/anurag-srivatsav/Text2Html.git
+    cd text-to-html-django
     ```
 
 2. **Create and Activate a Virtual Environment**
@@ -81,19 +76,9 @@ Once the server is running, you can access the application at `http://localhost:
 
 Check out the live demo: [Text to HTML Converter Demo](https://your-live-demo-url.com)
 
-## Contributing
 
-Contributions are welcome! Please follow these steps to contribute:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
